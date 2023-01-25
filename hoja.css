@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+h1{text-align:center;
+}
+
+.subtitulo{
+	font-size:12px;
+}
+
+body{
+	background-color:lightblue;
+}
+
+table td{
+	text-align:center;
+	border:1px #000099 dotted;
+	font-weight: bold;
+}
+
+table .sin{
+	border:0;
+}
+
+table .bot{
+	padding:0 5px;
+	display:inline;
+	border:0;
+}
+
+table .primera_fila{
+	font-size:1.5em;
+	text-decoration:none;
+	background-color:#4863A0;
+	color: white;
+}
+
+.centrado{
+	text-align:center;
+}
+
+
